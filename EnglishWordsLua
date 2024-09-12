@@ -1,7 +1,5 @@
 {
-  "words": {
-    "hello",
-    "world",
-    "example"
-  }
+	"words": {
+		"words"
+	}
 }
