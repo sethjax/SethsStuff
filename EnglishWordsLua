@@ -1,5 +1,13 @@
 {
-	"words": {
-		"1": = "word"
+	"message": "success",
+	"info": {
+		"points": 120,
+		"isLeader": true,
+		"user": {
+			"id": 12345,
+			"name": "JohnDoe"
+		},
+		"past_scores": [50, 42, 95],
+		"best_friend": null
 	}
 }
