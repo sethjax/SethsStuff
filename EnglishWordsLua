@@ -1,7 +1,7 @@
 {
-  "words": [
+  "words": {
     "hello",
     "world",
     "example"
-  ]
+  }
 }
